@@ -9,4 +9,4 @@ i used vs code with jupiter notebook extinsion with pandas and matplotlib .
 
 
 
-this my first project and i hope to do btter than this in the future.
+this my first project and i hope to do better than this in the future.
